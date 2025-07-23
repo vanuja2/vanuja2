@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 👋 Vanuja Alagiyawanna</h1>
+<h1 align="center">Hi there, I'm Vanuja Alagiyawanna</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+Full-stack+Developer;Spring+Boot+%7C+React+%7C+MERN+Stack;Tech+Enthusiast+%7C+IT+Undergraduate" alt="Typing SVG" />
@@ -8,7 +8,6 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 I’m currently working on: **E-Commerce Web App (Spring Boot + React)**
 - 📚 I’m currently learning: **Docker | AWS | CI/CD**
 - 🧠 Always learning: **Best coding practices & software architecture**
 - 🚀 Fun fact: I love building and breaking stuff to learn how they work.
@@ -44,7 +43,7 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/feed/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
